@@ -27,9 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-This post will summarize the main points in our recent work - [Using Deep Networks for Scientific Discovery in Physiological Signals](https://www.mlforhc.org/accepted-papers), which will be presented at the 2020 Machine Learning for Healthcare Conference. 
+This post will summarize the main points in our recent work - [Using Deep Networks for Scientific Discovery in Physiological Signals](https://arxiv.org/abs/2008.10936), which ~~will be~~ was presented at the 2020 Machine Learning for Healthcare Conference. 
 
 ---
+
 ## Motivation
 
 Despite the tremendous breakthroughs that deep learning models have brought in the last decade, they remain largely undeployed in high stakes domains like healthcare. Clinicians do not trust the outputs of complex black box models, and prefer to work with simple, interpretable systems that base their decisions on theoretically grounded and understood features. 

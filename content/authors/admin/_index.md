@@ -70,4 +70,4 @@ email: ""
 I'm a graduate student working with [Uri Shalit](https://shalit.net.technion.ac.il/) at the Technion. 
 I develop machine learning algorithms for causal inference from observational data, like medical records.
 I'm also interested in physiological signal processing (ECG, EEG, fMRI) and extracting insights from learned representations in neural networks.
-I completed a BSc in Electrical Engineering at the Technion.
+I completed a BSc in Electrical Engineering at the Technion. I'm an amateur sourdough baker and handtool woodworker.
