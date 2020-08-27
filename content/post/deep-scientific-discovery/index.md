@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 This post will summarize the main points in our recent work - [Using Deep Networks for Scientific Discovery in Physiological Signals](https://arxiv.org/abs/2008.10936), which ~~will be~~ was presented at the 2020 Machine Learning for Healthcare Conference. 
+Code for the framework and experiments can be found [here](https://github.com/tom-beer/deep-scientific-discovery).
 
 ---
 
