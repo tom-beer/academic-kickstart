@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tom1beer@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:tom.beer@khealth.ai'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/aTomBeer
@@ -71,8 +71,7 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-
-I'm a graduate student working with [Uri Shalit](https://shalit.net.technion.ac.il/) at the Technion. 
-I develop machine learning algorithms for causal inference from observational data, like medical records.
-I'm also interested in physiological signal processing (ECG, EEG, fMRI) and extracting insights from learned representations in neural networks.
-I completed a BSc in Electrical Engineering at the Technion. I'm an amateur sourdough baker and handtool woodworker.
+I’m a researcher interested in causality, actionability and transportability of machine learning systems. 
+At K Health, I design and develop models for personalised, reliable and accessible healthcare. 
+In my research at Uri Shalit’s lab I devised algorithms for robust causal inference from non-experimental data. I completed an MSc in Data Science and a BSc in Electrical Engineering, both at the Technion. 
+I'm an amateur sourdough baker and handtool woodworker.
