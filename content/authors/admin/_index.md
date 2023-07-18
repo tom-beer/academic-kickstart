@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tom-beer
+- icon: face-smiling-hands
+  icon_pack: fab
+  link: https://huggingface.co/tom-beer
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=6wZ70dEAAAAJ&hl=en
