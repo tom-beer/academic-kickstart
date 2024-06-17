@@ -42,8 +42,6 @@ Positivity: Every individual in the data should have a chance (a positive probab
 
 There are two more assumptions that are prerequisites for uplift modeling: consistency, which means the treatment effect we observe should match the true treatment effect for each individual, and the absence of hidden variations in the treatment. These assumptions are straightforward and are generally less challenging to address.
 
-Consider linking the assumptions to the fundamental problem of causal inference
-
 #### RCTs satisfy causal requirements
 We see that causal modeling in general and uplift modeling specifically demand a high price before we even start working. Among the requirements, the hardest to satisfy in most cases is the exchangeability assumption. It is unverifiable from data alone, meaning we cannot look at the data and inspect if it holds or not. We need external information about how the data was generated. To demonstrate, see the example in [this post](https://tom-beer.github.io/post/proxies_ci/) where two different processes create an identical distribution for $P(X,Y)$. If we know the data was generated from an RCT, where treatment was randomly allocated, then exchangeability holds because no factors influence both treatment assignment and outcome. Without control over the treatment assignment process, we can never know that we have hold of all factors influencing it, and we cannot guarantee exchangeability. 
 
