@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Uplift Modeling"
+title: "Uplift Modeling I"
 subtitle: "Part 1: Motivation & Causal Modeling"
 summary: "Part 1: Motivation & Causal Modeling"
 authors: []
